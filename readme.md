@@ -1,0 +1,2 @@
+# BUSM131 MASTERCLASS IN BUSINESS ANALYTICS CODES
+You can find all the code for BUSM131 under this repository. Materials for the week will be added to the computer labs directory. Go to QMPlus projects directory for the ML projects being referred to in some of the quizzes.
